@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>datahub-system-dto</artifactId>
+    <artifactId>datahub-system-api</artifactId>
 
     <dependencies>
 
